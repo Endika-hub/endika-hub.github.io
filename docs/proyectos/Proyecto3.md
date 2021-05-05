@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Buttons
-parent: UI Components
-nav_order: 2
+title: Proyecto 3
+parent: Proyectos
+nav_order: 3
 ---
 
 # Buttons
 {: .no_toc }
 
-## Table of contents
+## Tabla de contenidos
 {: .no_toc .text-delta }
 
 1. TOC
